@@ -19,7 +19,7 @@ This repository documents my **daily competitive programming practice**, showcas
 
 | Day | Date | Platform | Problem(s) Solved | Topic(s) | Language |
 |----:|------|----------|-------------------|----------|----------|
-| 1 | 05-01-2026 | LeetCode | 1975_MaximumMatrixSum  | Matrix | Java |
+| 1 | 05-01-2026 | LeetCode | 1975 MaximumMatrixSum  | Matrix | Java |
 
 📌 **Current Streak:** `1 days`  
 🏆 **Longest Streak:** `37 days`  
