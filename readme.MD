@@ -23,8 +23,9 @@ This repository documents my **daily competitive programming practice**, showcas
 | 2 | 06-01-2026 | LeetCode | 1161 MaximumLevelSumBinaryTree  | BFS | Java |
 | 3 | 07-01-2026 | LeetCode | 1339 MaximumProductofSplittedBinaryTree | Tree | Java |
 | 4 | 08-01-2026 | LeetCode | 394 DecodeString | Stack | Java |
+| 5 | 09-01-2026 | LeetCode | 865 SmallestSubtreewithalltheDeepestNodes | Hash Table | Java |
 
-📌 **Current Streak:** `4 days`  
+📌 **Current Streak:** `5 days`  
 🏆 **Longest Streak:** `37 days`  
 
 > This log is updated **daily** to reflect consistency and progress.
