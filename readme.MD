@@ -25,8 +25,9 @@ This repository documents my **daily competitive programming practice**, showcas
 | 4 | 08-01-2026 | LeetCode | 394 DecodeString | Stack | Java |
 | 5 | 09-01-2026 | LeetCode | 865 SmallestSubtreewithalltheDeepestNodes | Hash Table | Java |
 | 6 | 10-01-2026 | LeetCode | 3697 ComputeDecimalRepresentation | Array | Python |
+| 7 | 11-01-2026 | LeetCode | 85 MaximalRectangle | Array | Python |
 
-📌 **Current Streak:** `6 days`  
+📌 **Current Streak:** `7 days`  
 🏆 **Longest Streak:** `37 days`  
 
 > This log is updated **daily** to reflect consistency and progress.
