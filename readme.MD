@@ -28,8 +28,9 @@ This repository documents my **daily competitive programming practice**, showcas
 | 7 | 11-01-2026 | LeetCode | 85 MaximalRectangle | Array | Python |
 | 8 | 12-01-2026 | LeetCode | 1266 MinimumTimeVisitingAllPoints | Array | Java |
 | 9 | 13-01-2026 | LeetCode | 3453 SeparateSquaresI | Array | Java |
+| 10 | 14-01-2026 | LeetCode | 136 BitManipulation | Single Number | Java |
 
-📌 **Current Streak:** `9 days`  
+📌 **Current Streak:** `10 days`  
 🏆 **Longest Streak:** `37 days`  
 
 > This log is updated **daily** to reflect consistency and progress.
