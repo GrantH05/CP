@@ -30,8 +30,9 @@ This repository documents my **daily competitive programming practice**, showcas
 | 9 | 13-01-2026 | LeetCode | 3453 SeparateSquaresI | Array | Java |
 | 10 | 14-01-2026 | LeetCode | 136 SingleNumber | Bit Manipulation | Java |
 | 11 | 15-01-2026 | LeetCode | 2943 MaximizeAreaofSquareHoleinGrid | Array | Java |
+| 12 | 16-01-2026 | LeetCode | 2975 MaximumSquareAreabyRemovingFencesFromaField | Array | Python |
 
-📌 **Current Streak:** `11 days`  
+📌 **Current Streak:** `12 days`  
 🏆 **Longest Streak:** `37 days`  
 
 > This log is updated **daily** to reflect consistency and progress.
