@@ -32,8 +32,9 @@ This repository documents my **daily competitive programming practice**, showcas
 | 11 | 15-01-2026 | LeetCode | 2943 MaximizeAreaofSquareHoleinGrid | Array | Java |
 | 12 | 16-01-2026 | LeetCode | 2975 MaximumSquareAreabyRemovingFencesFromaField | Array | Python |
 | 13 | 17-01-2026 | LeetCode | 28 FindtheIndexoftheFirstOccurrenceinaString | Two Pointers | Java |
+| 14 | 18-01-2026 | LeetCode | 45 JumpGameII | Dynamic Programming | Python |
 
-📌 **Current Streak:** `13 days`  
+📌 **Current Streak:** `14 days`  
 🏆 **Longest Streak:** `37 days`  
 
 > This log is updated **daily** to reflect consistency and progress.
