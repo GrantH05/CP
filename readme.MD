@@ -34,8 +34,9 @@ This repository documents my **daily competitive programming practice**, showcas
 | 13 | 17-01-2026 | LeetCode | 28 FindtheIndexoftheFirstOccurrenceinaString | Two Pointers | Java |
 | 14 | 18-01-2026 | LeetCode | 45 JumpGameII | Dynamic Programming | Python |
 | 15 | 19-01-2026 | LeetCode | 1292 MaximumSideLengthofaSquarewithSumLessthanorEqualtoThreshold | Array | Java |
+| 16 | 20-01-2026 | LeetCode | 3314 ConstructtheMinimumBitwiseArrayI | Array | Java |
 
-📌 **Current Streak:** `15 days`  
+📌 **Current Streak:** `16 days`  
 🏆 **Longest Streak:** `37 days`  
 
 > This log is updated **daily** to reflect consistency and progress.
